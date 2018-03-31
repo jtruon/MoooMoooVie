@@ -1,0 +1,7 @@
+INSERT INTO `movies2017`.`company` (`idCompany`, `name`, `about`) VALUES ('108', 'Scott Rudin\n', 'Scott Rudin\nBorn	July 14, 1958 (age 59)\nBaldwin, New York\nOccupation	Producer\nYears active	1978–present\nPartner(s)	John Barlow\nScott Rudin (born July 14, 1958)[1] is an American film and theatre producer. In the 1980s, he formed his own production company called Scott Rudin Productions, and his first film was Gillian Armstrong’s Mrs. Soffel. Soon after, he joined 20th Century-Fox as an executive producer, and eventually became president of production, a post he held for almost 15 years. He has since made films under the Touchstone Pictures, Walt Disney Pictures, and Miramax labels, among others. In 2012, Rudin became one of the few people who have won an Emmy, Grammy, Oscar, and Tony Award, and the first producer to do so');
+INSERT INTO `movies2017`.`movies_company` (`Movies_idMovies`, `Company_idCompany`) VALUES ('4', '108');
+SELECT company.idCompany as Company_ID, company.name as Company_name, movies_company.Movies_idMovies as Movie_ID, movies.title as Movie_tittle
+FROM movies2017.company
+JOIN movies2017.movies_company ON  company.idCompany = movies_company.Company_idCompany
+JOIN movies2017.movies	ON movies.idMovies = movies_company.Movies_idMovies
+ORDER BY company.idCompany;
