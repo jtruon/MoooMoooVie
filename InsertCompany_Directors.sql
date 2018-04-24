@@ -6,3 +6,12 @@ INSERT INTO `movies2017`.`company_directors` (`company_idCompany`, `directors_id
 INSERT INTO `movies2017`.`company_directors` (`company_idCompany`, `directors_idDirectors`) VALUES ('105', '3');
 INSERT INTO `movies2017`.`company_directors` (`company_idCompany`, `directors_idDirectors`) VALUES ('106', '3');
 INSERT INTO `movies2017`.`company_directors` (`company_idCompany`, `directors_idDirectors`) VALUES ('107', '3');
+INSERT INTO `movies2017`.`company_directors` (`company_idCompany`, `directors_idDirectors`) VALUES ('108', '4');
+INSERT INTO `movies2017`.`company_directors` (`company_idCompany`, `directors_idDirectors`) VALUES ('109', '4');
+INSERT INTO `movies2017`.`company_directors` (`company_idCompany`, `directors_idDirectors`) VALUES ('110', '4');
+INSERT INTO `movies2017`.`company_directors` (`company_idCompany`, `directors_idDirectors`) VALUES ('105', '5');
+INSERT INTO `movies2017`.`company_directors` (`company_idCompany`, `directors_idDirectors`) VALUES ('111', '5');
+INSERT INTO `movies2017`.`company_directors` (`company_idCompany`, `directors_idDirectors`) VALUES ('112', '5');
+INSERT INTO `movies2017`.`company_directors` (`company_idCompany`, `directors_idDirectors`) VALUES ('113', '6');
+INSERT INTO `movies2017`.`company_directors` (`company_idCompany`, `directors_idDirectors`) VALUES ('114', '6');
+INSERT INTO `movies2017`.`company_directors` (`company_idCompany`, `directors_idDirectors`) VALUES ('115', '6');

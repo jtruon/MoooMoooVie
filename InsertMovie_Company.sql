@@ -12,3 +12,12 @@ INSERT INTO `movies_company` (`Movies_idMovies`,`Company_idCompany`) VALUES (2,1
 INSERT INTO `movies_company` (`Movies_idMovies`,`Company_idCompany`) VALUES (3,105);
 INSERT INTO `movies_company` (`Movies_idMovies`,`Company_idCompany`) VALUES (3,106);
 INSERT INTO `movies_company` (`Movies_idMovies`,`Company_idCompany`) VALUES (3,107);
+INSERT INTO `movies2017`.`movies_company` (`Movies_idMovies`, `Company_idCompany`) VALUES ('4', '108');
+INSERT INTO `movies2017`.`movies_company` (`Movies_idMovies`, `Company_idCompany`) VALUES ('4', '109');
+INSERT INTO `movies2017`.`movies_company` (`Movies_idMovies`, `Company_idCompany`) VALUES ('4', '110');
+INSERT INTO `movies2017`.`movies_company` (`Movies_idMovies`, `Company_idCompany`) VALUES ('5', '111');
+INSERT INTO `movies2017`.`movies_company` (`Movies_idMovies`, `Company_idCompany`) VALUES ('5', '112');
+INSERT INTO `movies2017`.`movies_company` (`Movies_idMovies`, `Company_idCompany`) VALUES ('5', '105');
+INSERT INTO `movies2017`.`movies_company` (`Movies_idMovies`, `Company_idCompany`) VALUES ('6', '113');
+INSERT INTO `movies2017`.`movies_company` (`Movies_idMovies`, `Company_idCompany`) VALUES ('6', '114');
+INSERT INTO `movies2017`.`movies_company` (`Movies_idMovies`, `Company_idCompany`) VALUES ('6', '115');

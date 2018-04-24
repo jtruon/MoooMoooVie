@@ -11,3 +11,8 @@ INSERT INTO `awards` (`idAward`,`name`,`about`) VALUES (4,'IGN Summer Movie Awar
 INSERT INTO `awards` (`idAward`,`name`,`about`) VALUES (5,'Academy Awards, USA','Best Original Screenplay\nJordan Peele ');
 INSERT INTO `awards` (`idAward`,`name`,`about`) VALUES (6,'Screen Actors Guild Awards',NULL);
 INSERT INTO `awards` (`idAward`,`name`,`about`) VALUES (7,'AFI Awards, USA','Movie of the Year');
+INSERT INTO `movies2017`.`awards` (`idAward`, `name`, `about`) VALUES ('8', 'Golden Globe', 'Best Motion Picture - Musical or Comedy');
+INSERT INTO `movies2017`.`awards` (`idAward`, `name`, `about`) VALUES ('9', 'Movies for Grownups Award', 'Best Supporting Actress');
+INSERT INTO `movies2017`.`awards` (`idAward`, `name`, `about`) VALUES ('10', 'Oscar', '');
+INSERT INTO `movies2017`.`awards` (`idAward`, `name`, `about`) VALUES ('11', 'BAFTA Film Award', 'Best Sound');
+INSERT INTO `movies2017`.`awards` (`idAward`, `name`, `about`) VALUES ('12', 'AACTA International Award	', 'Best Direction');

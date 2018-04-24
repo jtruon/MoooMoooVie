@@ -13,3 +13,12 @@ INSERT INTO `movies_stars` (`Movies_idMovies`,`Stars_idStars`,`character`) VALUE
 INSERT INTO `movies_stars` (`Movies_idMovies`,`Stars_idStars`,`character`) VALUES (3,7,'Diana');
 INSERT INTO `movies_stars` (`Movies_idMovies`,`Stars_idStars`,`character`) VALUES (3,8,'Steve Trevor');
 INSERT INTO `movies_stars` (`Movies_idMovies`,`Stars_idStars`,`character`) VALUES (3,9,'Antiope');
+INSERT INTO `movies2017`.`movies_stars` (`Movies_idMovies`, `Stars_idStars`, `character`) VALUES ('4', '10', 'Lady Bird McPherson');
+INSERT INTO `movies2017`.`movies_stars` (`Movies_idMovies`, `Stars_idStars`, `character`) VALUES ('4', '11', 'Marion McPherson');
+INSERT INTO `movies2017`.`movies_stars` (`Movies_idMovies`, `Stars_idStars`, `character`) VALUES ('4', '12', 'Larry McPherson');
+INSERT INTO `movies2017`.`movies_stars` (`Movies_idMovies`, `Stars_idStars`, `character`) VALUES ('5', '13', 'Tommy');
+INSERT INTO `movies2017`.`movies_stars` (`Movies_idMovies`, `Stars_idStars`, `character`) VALUES ('5', '14', 'George');
+INSERT INTO `movies2017`.`movies_stars` (`Movies_idMovies`, `Stars_idStars`, `character`) VALUES ('5', '15', 'Mr.Dawson');
+INSERT INTO `movies2017`.`movies_stars` (`Movies_idMovies`, `Stars_idStars`, `character`) VALUES ('6', '16', 'Oliver');
+INSERT INTO `movies2017`.`movies_stars` (`Movies_idMovies`, `Stars_idStars`, `character`) VALUES ('6', '17', 'Elio');
+INSERT INTO `movies2017`.`movies_stars` (`Movies_idMovies`, `Stars_idStars`, `character`) VALUES ('6', '18', 'Mr.Perlman');

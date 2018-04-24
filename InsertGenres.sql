@@ -18,3 +18,6 @@ INSERT INTO `genres` (`idGenres`,`name`) VALUES (104,'Romance');
 INSERT INTO `genres` (`idGenres`,`name`) VALUES (114,'Sci-Fi');
 INSERT INTO `genres` (`idGenres`,`name`) VALUES (107,'Thriller');
 INSERT INTO `genres` (`idGenres`,`name`) VALUES (108,'War');
+INSERT INTO `movies2017`.`region` (`idRegion`, `name`) VALUES ('6', 'UK');
+INSERT INTO `movies2017`.`region` (`idRegion`, `name`) VALUES ('7', 'France');
+INSERT INTO `movies2017`.`region` (`idRegion`, `name`) VALUES ('8', 'Netherlands');
